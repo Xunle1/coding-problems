@@ -8,7 +8,7 @@ I want to document the coding problems encountered and new usage of language fea
 
 * [git](#git)
 * [powershell](#powershell)
-
+* [Java](#java)
 ---
 
 ### git
@@ -19,3 +19,7 @@ I want to document the coding problems encountered and new usage of language fea
 ### powershell
 
 - [Set Proxy In Powershell](powershell/set-proxy-in-powershell.md)
+
+### Java
+
+- [Generate Keypair In CLI](java/generate-keypair-in-cli.md)
