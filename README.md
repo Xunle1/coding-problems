@@ -9,6 +9,8 @@ I want to document the coding problems encountered and new usage of language fea
 * [git](#git)
 * [powershell](#powershell)
 * [Java](#java)
+* [Linux](#linux)
+
 ---
 
 ### git
@@ -23,3 +25,7 @@ I want to document the coding problems encountered and new usage of language fea
 ### Java
 
 - [Generate Keypair In CLI](java/generate-keypair-in-cli.md)
+
+### linux
+
+- [Check Time Of Last System Boot](linux/check-time-of-last-system-boot.md)
