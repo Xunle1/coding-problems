@@ -14,3 +14,9 @@ keyStore.load(new FileInputStream(PATH_TO_KEYSTORE), PASSWORD.toCharArray());
 Certificate cert = keyStore.getCertificate("mykey");
 PublicKey key = cert.getPublicKey();
 ```
+
+Show public/private key in pem format.
+
+```shell
+keytool -list -rfc --keystore .\keystore.jks | openssl x509 -inform pem -pubkey
+``
