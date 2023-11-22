@@ -26,6 +26,7 @@ I want to document the coding problems I encounter and the new language usage I 
 
 - [Generate Keypair In CLI](java/generate-keypair-in-cli.md)
 - [Read Images In Base64 Format](java/read-images-in-base64-format.md)
+- [Decrypt Using AES](java/decrypt-using-aes-in-java.md)
 
 ### powershell
 
