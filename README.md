@@ -1,6 +1,6 @@
 # Document
 
-I want to document the coding problems encountered and new usage of language feature I learnt.
+I want to document the coding problems I encounter and the new language usage I learn.
 
 ---
 
