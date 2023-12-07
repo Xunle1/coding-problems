@@ -28,6 +28,7 @@ I want to document the coding problems I encounter and the new language usage I 
 - [Read Images In Base64 Format](java/read-images-in-base64-format.md)
 - [Decrypt Using AES](java/decrypt-using-aes-in-java.md)
 - [Use Specify Profile Test Spring Boot Test](java/use-specify-profile-test-spring-boot.md)
+- [Get Resource In JAR](java/get-resource-in-jar.md)
 
 ### powershell
 
