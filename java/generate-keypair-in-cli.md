@@ -15,8 +15,20 @@ Certificate cert = keyStore.getCertificate("mykey");
 PublicKey key = cert.getPublicKey();
 ```
 
-Show public/private key in pem format.
+Get public key in pem format.
 
 ```shell
-keytool -list -rfc --keystore .\keystore.jks | openssl x509 -inform pem -pubkey
-``
+keytool -list -rfc --keystore .\keystore.jks | openssl x509 -inform pem -pubkey -out pub.key
+```
+
+Convert jks to pfx format.
+
+```shell
+keytool -v -importkeystore -srckeystore keystore.jks -srcstoretype jks -srcstorepass ${SRC_PWD} -destkeystore keystore.pfx -deststoretype pkcs12 -deststorepass ${DEST_PWD}
+```
+
+Get private key in pem format.
+
+```shell
+openssl pkcs12 -in keystore.pfx -nocerts -nodes -out pri.key
+```
