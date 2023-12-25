@@ -21,6 +21,7 @@ I want to document the coding problems I encounter and the new language usage I 
 ### linux
 
 - [Check Time Of Last System Boot](linux/check-time-of-last-system-boot.md)
+- [Use Chrony To Synchronize Time](linux/use-chrony-to-synchronize-time.md)
 
 ### Java
 
