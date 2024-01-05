@@ -6,12 +6,17 @@ I want to document the coding problems I encounter and the new language usage I 
 
 ### Categories
 
+* [cpp](#cpp)
 * [git](#git)
 * [powershell](#powershell)
 * [Java](#java)
 * [Linux](#linux)
 
 ---
+
+### cpp
+
+- [Shorten The Path Of File Macro](cpp/shorten-the-path-of-file-macro.md)
 
 ### git
 
