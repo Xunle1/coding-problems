@@ -23,6 +23,10 @@ I want to document the coding problems I encounter and the new language usage I 
 - [Change Name Of Default Branch](git/change-name-of-default-branch.md)
 - [Set Proxy Of Git](git/set-proxy-of-git.md)
 
+### go
+
+- [Sort In Go](go/sort-in-go.md)
+
 ### linux
 
 - [Check Time Of Last System Boot](linux/check-time-of-last-system-boot.md)
