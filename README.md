@@ -39,6 +39,7 @@ I want to document the coding problems I encounter and the new language usage I 
 - [Decrypt Using AES](java/decrypt-using-aes-in-java.md)
 - [Use Specify Profile Test Spring Boot Test](java/use-specify-profile-test-spring-boot.md)
 - [Get Resource In JAR](java/get-resource-in-jar.md)
+- [Inject Static Component Into Spring Component](java/inject-static-component-into-spring-component.md)
 
 ### powershell
 
