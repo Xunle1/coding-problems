@@ -26,6 +26,7 @@ I want to document the coding problems I encounter and the new language usage I 
 ### go
 
 - [Sort In Go](go/sort-in-go.md)
+- [Monitor Channel](go/monitor-channel.md)
 
 ### linux
 
